@@ -21,6 +21,6 @@ insecure@1.0.7                # Allow all DB writes from clients (for prototypin
 twbs:bootstrap
 session
 coffeescript
-iron:router
 sacha:spin
 kadira:flow-router
+kadira:blaze-layout

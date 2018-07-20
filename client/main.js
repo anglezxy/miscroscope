@@ -1,15 +1,19 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
-import './templates/posts/posts_list.js';
-import './main.html';
-
+import './lib/router.js';
 
 
 Template.body.onCreated(function bodyOnCreated() {
   Meteor.subscribe('posts');
 });
-/*Template.hello.onCreated(function helloOnCreated() {
+
+/*import './templates/posts/posts_list.js';
+import './main.html';
+
+
+
+Template.hello.onCreated(function helloOnCreated() {
   // counter starts at 0
   this.counter = new ReactiveVar(0);
 });
