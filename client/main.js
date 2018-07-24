@@ -1,7 +1,7 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
-import './lib/router.js';
+import '../lib/router.js';
 
 
 Template.body.onCreated(function bodyOnCreated() {
