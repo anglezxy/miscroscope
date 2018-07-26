@@ -28,7 +28,7 @@ arillo:flow-router-helpers
 accounts-password
 
 accounts-ui
-check
-audit-argument-checks
 mdg:validated-method
 aldeed:simple-schema
+aldeed:collection2
+aldeed:schema-index
