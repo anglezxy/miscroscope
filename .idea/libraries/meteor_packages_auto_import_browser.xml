@@ -32,6 +32,9 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.4.1/web.browser/login_buttons_session.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.4.1/web.browser/login_buttons_single.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2/3.0.0/web.browser/collection2.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/client.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/common.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/server.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/mongo-object.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/simple-schema-context.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/simple-schema-utility.js" />
@@ -278,6 +281,9 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.4.1/web.browser/login_buttons_session.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.4.1/web.browser/login_buttons_single.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2/3.0.0/web.browser/collection2.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/client.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/common.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/3.0.0/web.browser/server.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/mongo-object.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/simple-schema-context.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.4/web.browser/simple-schema-utility.js" />
